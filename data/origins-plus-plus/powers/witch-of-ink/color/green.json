@@ -22,8 +22,9 @@
 				{
 					"type":"origins:target_action",
 					"action":{
-						"type":"origins:heal",
-						"amount":-4
+						"type":"origins:damage",
+						"amount":4,
+						"damage_type": "minecraft:magic"
 					}
 				}
 			]
