@@ -22,10 +22,6 @@ Origins++ is a collection of more than 100 origins to fully expand the origins e
 [![CrowdIn](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/crowdin_46h.png)](https://crowdin.com/project/origins-plus-plus)
 ***
 
-##TODO
-Plan Origin Powers
-Write Wiki
-Write code
 
 
 
